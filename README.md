@@ -24,7 +24,7 @@ Launches the test runner in the interactive.
 
 The project includes three tests:
 
-1. **App.test.tsx**: Tests the login functionality.
+1. **App.test.tsx**: Checks if the application renders correctly.
 2. **Auth.test.tsx**: Validates the login input fields.
 3. **Comment.test.tsx**: Ensures that the comments are correctly listed.
 
