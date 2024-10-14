@@ -28,3 +28,16 @@ The project includes three tests:
 2. **Auth.test.tsx**: Validates the login input fields.
 3. **Comment.test.tsx**: Ensures that the comments are correctly listed.
 
+## Tools Used
+The following tools and libraries were used in this project:
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A superset of JavaScript that adds static typing.
+- **Ant Design**: A UI design language and React UI library.
+- **Redux Toolkit**: A library that provides a set of tools and best practices for efficient Redux development.
+- **Jest**: A JavaScript testing framework.
+- **@testing-library/react**: A testing utility that helps test React components by providing simple and accessible API methods.
+- **react-router-dom**: A library for routing in React applications, enabling navigation between different components and views.
+
+ ## Note
+ **All considerations and bonus features described in the project guidelines have been considered.**
