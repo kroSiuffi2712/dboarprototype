@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm install`:
-After cloning the repository, you need to install the project dependencies.
+### install the project dependencies
+After cloning the repository, you need to install the project dependencies. `npm install`
 
 ## Environment Variables Setup:
 Before running the project, make sure to configure the environment variables. Create a `.env` file in the root directory of the project with the following settings:
