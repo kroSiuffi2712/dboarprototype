@@ -40,4 +40,4 @@ The following tools and libraries were used in this project:
 - **react-router-dom**: A library for routing in React applications, enabling navigation between different components and views.
 
  ## Note
- **All considerations and bonus features described in the project guidelines have been considered.**
+ **All considerations and bonuses described in the project guidelines have been considered.**
