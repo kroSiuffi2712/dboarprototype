@@ -20,4 +20,11 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm test`
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive.
+
+The project includes three tests:
+
+1. **App.test.tsx**: Tests the login functionality.
+2. **Auth.test.tsx**: Validates the login input fields.
+3. **Comment.test.tsx**: Ensures that the comments are correctly listed.
+
