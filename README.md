@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Environment Variables Setup:
 Before running the project, make sure to configure the environment variables. Create a `.env` file in the root directory of the project with the following settings:
 
-REACT_APP_API_BASE_URL = This is the URL for fetching the posts
+REACT_APP_API_BASE_URL = This is the URL for fetching the comments List
 
 ## Available Scripts
 
