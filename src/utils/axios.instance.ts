@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const API_BASE_URL =
-  process.env.REACT_APP_API_BASE_URL ?? "https://jsonplaceholder.typicode.com";
+const API_BASE_URL = "https://jsonplaceholder.typicode.com";
+//process.env.REACT_APP_API_BASE_URL ?? "https://jsonplaceholder.typicode.com";
 
 const headers = {
   "Content-Type": "application/json",
