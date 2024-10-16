@@ -2,13 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### install the project dependencies
+After cloning the repository, you need to install the project dependencies. `npm install`
+
 ## Environment Variables Setup:
 Before running the project, make sure to configure the environment variables. Create a `.env` file in the root directory of the project with the following settings:
 
-REACT_APP_API_BASE_URL = This is the URL for fetching the comments List
+REACT_APP_API_BASE_URL = This is the base URL for fetching (Remove any additional segments like `/comments`)
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
